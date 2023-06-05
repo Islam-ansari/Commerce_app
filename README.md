@@ -8,7 +8,8 @@ This is an Auction Bidding website built using HTML, CSS, Javascript and Django.
 ##Screenshots
 
 ##Demo Video
-[![Demo Video](https://img.youtube.com/vi/11aCDYyIHzA/0.jpg)](https://www.youtube.com/watch?v=11aCDYyIHzA)
+
+![Demo Video][!(https://img.youtube.com/vi/11aCDYyIHzA/0.jpg)](https://www.youtube.com/watch?v=11aCDYyIHzA)
 
 
 ## Installation
