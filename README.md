@@ -5,9 +5,9 @@
 ## Description
 This is an Auction Bidding website built using HTML, CSS, Javascript and Django. It allows users to browse products, add items to the cart, and proceed to bid on certain items. And giving message to the user incase he/she win the auction. The website includes features such as user authentication, product search, and order management.
 
-##Screenshots
+## Screenshots
 
-##Demo Video
+## Demo Video
 
 [![Watch the video](https://img.youtube.com/vi/11aCDYyIHzA/maxresdefault.jpg)](https://youtu.be/11aCDYyIHzA)
 
